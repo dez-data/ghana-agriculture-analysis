@@ -255,38 +255,6 @@ The 13.86 cocoa multiplier shows cocoa's dominance: it's not just part of agricu
 
 ---
 
-## Project Structure
-ghana-agriculture-analysis/
-├── README.md
-├── data/
-│   ├── prod_volume.xlsx              # FAOStat production data (1961-2023)
-│   ├── crops_yield.xlsx              # FAOStat yield data (1961-2023)
-│   ├── area_harvested.xlsx           # FAOStat area data (1961-2023)
-│   ├── gdp_contribution.xlsx         # Ghana Statistical Service GDP data (2006-2024)
-│   └── export_trends.xlsx            # FAOStat export data (1991-2023)
-├── powerbi/
-│   ├── files/
-│   │   ├── production_trends.pbix
-│   │   ├── export_trends.pbix
-│   │   └── gdp_contribution.pbix
-│   └── screenshots/
-│       ├── production_trends/
-│       │   ├── production_volumes.png
-│       │   ├── area_harvested.png
-│       │   ├── yield_per_hectare.png
-│       │   └── production_area_yield_comparison.png
-│       ├── export_trends/
-│       │   ├── export_volume_revenue_price.png
-│       │   └── export_totals_overview.png
-│       └── gdp_contribution/
-│           └── gdp_contribution_overview.png
-├── notebooks/
-│   └── statistical_analysis.ipynb    # Python correlation & regression analysis
-└──presentation/
-    └── Ghana_Agriculture_Analysis_Report.pdf
-	
----
-
 ## Skills Demonstrated
 
 ### Technical Skills
@@ -356,4 +324,5 @@ Analysis, dashboards, and presentation created by Samuel Agondeze Kisoke and Abi
 *Completed during Data Analytics Internship at Amalitech Ghana*  
 
 *October - December 2025*
+
 
