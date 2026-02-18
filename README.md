@@ -6,7 +6,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-&gt; **63 years of agricultural data (1961-2023)** analyzed for government policy recommendations during Data Analytics Internship at Amalitech Ghana.
+**63 years of agricultural data (1961-2023)** analyzed for government policy recommendations during Data Analytics Internship at Amalitech Ghana.
 
 ---
 
@@ -175,7 +175,7 @@ While maize, yam, and rice have dramatically expanded their farmland over 63 yea
 
 **What this means:**
 
-&gt; **Agriculture IS Ghana's economy. And cocoa IS Ghana's agriculture.**
+**Agriculture IS Ghana's economy. And cocoa IS Ghana's agriculture.**
 
 The 4.89 multiplier is extraordinary; every Ghana Cedi in agriculture generates nearly GHC5 in overall economic activity through spillover effects (transport, processing, trade, services).
 
@@ -356,3 +356,4 @@ Analysis, dashboards, and presentation created by Samuel Agondeze Kisoke and Abi
 *Completed during Data Analytics Internship at Amalitech Ghana*  
 
 *October - December 2025*
+
