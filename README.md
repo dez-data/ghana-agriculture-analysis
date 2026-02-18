@@ -121,16 +121,16 @@ Stacked area analysis with KPI cards showing sector economic impact (2006-2024)
 
 | Crop | r with Year | Trend | Interpretation |
 |------|-------------|-------|----------------|
-| Rice | 0.90 | Strongest ⬆️ | Best yield gains |
-| Maize | 0.85 | Strong ⬆️ | Consistent improvement |
-| Cocoa | 0.84 | Strong ⬆️ | Technology adoption working |
-| Yam | 0.84 | Strong ⬆️ | Farming practices improving |
+| Rice | 0.90 | Strongest | Best yield gains |
+| Maize | 0.85 | Strong | Consistent improvement |
+| Cocoa | 0.84 | Strong | Technology adoption working |
+| Yam | 0.84 | Strong | Farming practices improving |
 
 **Finding:** All crops show strong, consistent yield improvements over 63 years. Technology adoption and improved farming practices are benefiting ALL crops equally—broad agricultural progress across Ghana.
 
 ---
 
-### Analysis 3: Area Harvested Correlations ⭐ CRITICAL FINDING
+### Analysis 3: Area Harvested Correlations (CRTICAL FINDING)
 
 **Area Expansion Over 63 Years:**
 
@@ -154,7 +154,7 @@ While maize, yam, and rice have dramatically expanded their farmland over 63 yea
 
 ---
 
-### Analysis 4: GDP Contribution Regression ⭐ STRONGEST FINDING
+### Analysis 4: GDP Contribution Regression  (STRONGEST FINDING)
 
 **Model 1: Agriculture GDP → Overall GDP**
 
@@ -263,7 +263,7 @@ ghana-agriculture-analysis/
 │   ├── crops_yield.xlsx              # FAOStat yield data (1961-2023)
 │   ├── area_harvested.xlsx           # FAOStat area data (1961-2023)
 │   ├── gdp_contribution.xlsx         # Ghana Statistical Service GDP data (2006-2024)
-│   └──export_trends.xlsx            # FAOStat export data (1991-2023)
+│   └── export_trends.xlsx            # FAOStat export data (1991-2023)
 ├── powerbi/
 │   ├── files/
 │   │   ├── production_trends.pbix
@@ -290,20 +290,20 @@ ghana-agriculture-analysis/
 ## Skills Demonstrated
 
 ### Technical Skills
-✅ **Power BI** (3 dashboards, DAX, data modeling, interactive visuals, published reports)  
-✅ **Python** (pandas, numpy, seaborn, scipy, statsmodels)  
-✅ **Statistical Analysis** (Pearson correlation, OLS regression, hypothesis testing)  
-✅ **Data Visualization** (correlation heatmaps, trend charts, regression plots)  
-✅ **Data Collection** (FAOStat, Ghana Statistical Service, World Bank - real-world sourcing)  
-✅ **Cross-tool Validation** (Power BI visual insights → Python statistical confirmation)  
+**Power BI** (3 dashboards, DAX, data modeling, interactive visuals, published reports)  
+**Python** (pandas, numpy, seaborn, scipy, statsmodels)  
+**Statistical Analysis** (Pearson correlation, OLS regression, hypothesis testing)  
+**Data Visualization** (correlation heatmaps, trend charts, regression plots)  
+**Data Collection** (FAOStat, Ghana Statistical Service, World Bank - real-world sourcing)  
+**Cross-tool Validation** (Power BI visual insights → Python statistical confirmation)  
 
 ### Business Skills
-✅ **Policy Analysis** (agricultural economics, development strategy)  
-✅ **Executive Presentation** (delivered to Amalitech supervisors)  
-✅ **Stakeholder Communication** (technical findings → business recommendations)  
-✅ **Recommendation Development** (data-driven policy suggestions)  
-✅ **Agricultural Domain Knowledge** (crop economics, food security, export markets)  
-✅ **Economic Analysis** (GDP contribution, multiplier effects, sector interdependencies)  
+**Policy Analysis** (agricultural economics, development strategy)  
+**Executive Presentation** (delivered to Amalitech supervisors)  
+**Stakeholder Communication** (technical findings → business recommendations)  
+**Recommendation Development** (data-driven policy suggestions)  
+**Agricultural Domain Knowledge** (crop economics, food security, export markets)  
+**Economic Analysis** (GDP contribution, multiplier effects, sector interdependencies)  
 
 ---
 
@@ -354,4 +354,5 @@ Analysis, dashboards, and presentation created by Samuel Agondeze Kisoke and Abi
 ---
 
 *Completed during Data Analytics Internship at Amalitech Ghana*  
+
 *October - December 2025*
